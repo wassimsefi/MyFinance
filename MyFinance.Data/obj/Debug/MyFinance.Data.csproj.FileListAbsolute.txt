@@ -1,0 +1,15 @@
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll.config
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.pdb
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.dll
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.dll
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.pdb
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.dll.config
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.xml
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csprojAssemblyReference.cache
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csproj.CoreCompileInputs.cache
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csproj.CopyComplete
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.dll
+C:\Users\wassi\source\repos\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb
